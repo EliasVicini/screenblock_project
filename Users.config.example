@@ -1,0 +1,7 @@
+# Exemplo de arquivo Users.config
+# Cada linha deve conter: nome_do_usuario;tempo_maximo
+# Tempo no formato HH:MM (horas:minutos)
+
+User1;06:00
+User2;05:30
+User3;04:45

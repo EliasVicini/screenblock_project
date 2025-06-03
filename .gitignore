@@ -1,0 +1,10 @@
+# Ignore arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+
+# JSONs gerados pelo script
+Logs/*.json
+
+# Configurações específicas de ambiente
+Users.config
