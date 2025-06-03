@@ -1,4 +1,4 @@
-# User Session Control - ScreenBlock
+# User Session Control - ScreenBlock.
 
 This project is a PowerShell script designed to control session time for users on Windows workstations in a corporate network. It limits usage time per user and enforces logoff once the allowed time is exceeded.
 

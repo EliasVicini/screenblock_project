@@ -1,4 +1,4 @@
-# 🛠️ Guia Rápido de Configuração
+# 🛠️ Guia Rápido de Configuração.
 
 ## 1. 🗂️ GPO (Group Policy Object)
 
